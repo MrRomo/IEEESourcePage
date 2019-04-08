@@ -8,7 +8,7 @@ ul.nav > li ul {display: none; position: absolute; left: -1px; width: 150px;marg
 ul.nav > li:hover ul {display: block;}
 ul.nav > li ul li {display: block;} /* Vertical Menu */
 ul.nav > li ul li {display: inline-block;} /* Horizontal Menu */
-#menu{float: right;}
+.menu{float: right;}
 #logo1{float: left;}
 ul .submenu a{color: blue;}
 ul .submenu:hover{ background: rgba(188, 188, 187 ,0.8);}
