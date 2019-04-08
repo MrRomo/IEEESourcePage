@@ -1,0 +1,14 @@
+* {font-family: "Segoe UI", Tahoma;}
+ul.nav {background: #F9C000; padding: 10px; padding-bottom: 40px;}
+ul.nav li a {display: block; text-decoration: none; color: white; padding: 5px;}
+ul.nav > li:hover {}
+ul.nav li a:hover {}
+ul.nav > li {display: inline-block; position: relative;}
+ul.nav > li ul {display: none; position: absolute; left: -1px; width: 150px;margin-top: 1px; background: rgba(250, 249, 248   ,0.8); border-radius: 5px;}
+ul.nav > li:hover ul {display: block;}
+ul.nav > li ul li {display: block;} /* Vertical Menu */
+ul.nav > li ul li {display: inline-block;} /* Horizontal Menu */
+#menu{float: right;}
+#logo1{float: left;}
+ul .submenu a{color: blue;}
+ul .submenu:hover{ background: rgba(188, 188, 187 ,0.8);}
