@@ -13,13 +13,13 @@
 
 <ul class="nav">
 	<li id="logo1"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/IEEE_logo.svg/1200px-IEEE_logo.svg.png" width="60px" height="30px"></li>
-	<li id="menu"><a href="#">Registrate</a></li>
-	<li id="menu"><a href="#">| Iniciar session</a></li>
-	<li id="menu"><a href="#">Contactanos</a></li>   
-    <li id="menu"><a href="#">Noticias</a></li>
-    <li id="menu"><a href="#">Membresias</a></li>
+	<li class="menu"><a href="#">Registrate</a></li>
+	<li class="menu"><a href="#">| Iniciar session</a></li>
+	<li class="menu"><a href="#">Contactanos</a></li>   
+    <li class="menu"><a href="#">Noticias</a></li>
+    <li class="menu"><a href="#">Membresias</a></li>
     
-    <li id="menu">
+    <li class="menu">
         <a href="#">Eventos</a>
         <ul>
             <li ><a href="#" style="color:blue;">Cursos</a></li>
@@ -28,7 +28,7 @@
             <li><a href="#" style="color:blue;">Meetups</a></li>
         </ul>
     </li>
-        <li id="menu">
+        <li class="menu">
         <a href="#">informacion</a>
         <ul>
         	<li><a href="#" style="color:blue;">Vision</a></li><br>
@@ -37,6 +37,20 @@
             <li><a href="#" style="color:blue;">Organigrama</a></li>
         </ul>
     </li>
+     <li class="menu"><a href="#">Inicio</a></li>
+    
+    
+
+</ul>
+
+        </nav>	
+   </div>
+</header><!-- /header -->
+
+<body>
+	
+</body>
+</html>
      <li id="menu"><a href="#">Inicio</a></li>
     
     
