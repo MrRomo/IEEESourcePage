@@ -38,6 +38,8 @@
         </ul>
     </li>
      <li class="menu"><a href="#">Inicio</a></li>
+<<<<<<< HEAD
+=======
     
     
 
@@ -52,6 +54,7 @@
 </body>
 </html>
      <li id="menu"><a href="#">Inicio</a></li>
+>>>>>>> origin/master
     
     
 
