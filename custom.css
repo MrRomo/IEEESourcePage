@@ -1,0 +1,22 @@
+.bg-light {
+    background-color: rgb(242, 183, 73) !important;
+}
+.noticias {
+    background-color: white;
+}
+.events {
+    background-color: #2667ab;
+}
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    background-color: rgb(242, 183, 73) !important;
+}
+.carousel-indicators li{
+    border: solid 3px transparent;
+}
+.carousel-indicators .active {
+    border: solid 3px white;
+}
+
